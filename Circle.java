@@ -1,10 +1,10 @@
-//**********************************************************
+//*********************************************************
 //  Steven Smail
 //  Circle.java
 //
 //  Print the area and circumference of a circle with two
 //  different radii and calculate the factor of change.
-//**********************************************************
+//*********************************************************
 
 public class Circle
 {
